@@ -5,11 +5,10 @@
 
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeIgnacio&layout=compact)
-
-[![Currency App Card](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeIgnacio&repo=currencyapp)](https://github.com/guilhermeignacio/currencyapp)
-[![Document Scanner Card](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeIgnacio&repo=documentscanner)](https://github.com/guilhermeignacio/documentscanner)
-[![Notepad Card](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeIgnacio&repo=notepad)](https://github.com/guilhermeignacio/notepad)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=GuilhermeIgnacio&repo=CurrencyApp)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=GuilhermeIgnacio&repo=DocumentScanner)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=GuilhermeIgnacio&repo=Notepad)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=GuilhermeIgnacio&repo=BrainTappers)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### Technologies
